@@ -1,69 +1,58 @@
-# 🛡️ Luis Burgos | Cybersecurity Portfolio
+# 👋 Hola, soy Luis Burgos
 
-👋 Hola, soy Luis, técnico en ciberseguridad especializado en Blue Team y análisis de seguridad.
+🛡️ Técnico en ciberseguridad especializado en **Blue Team y análisis de seguridad**
 
-🎯 Actualmente enfocado en entornos SOC (Security Operations Center), trabajando en detección de amenazas, análisis de logs y respuesta a incidentes.
-
----
-
-## 🔐 Áreas de especialización
-
-- 🟦 SIEM & Threat Detection: Wazuh, ELK Stack, Splunk  
-- 🟦 Incident Response & Log Analysis  
-- 🟦 Malware Analysis: VirusTotal, Any.run, Hybrid Analysis  
-- 🟦 Digital Forensics: Autopsy, Volatility, FTK Imager  
-- 🟦 Networking & Systems: Linux, Windows Server, Active Directory  
+🎯 Actualmente enfocado en entornos **SOC (Security Operations Center)**, trabajando en detección de amenazas, análisis de logs y respuesta a incidentes.
 
 ---
 
-## 📂 Proyectos destacados
+## 🔐 Sobre mí
 
-### 🔍 SIEM Detection Labs
-- Detección de ataques de fuerza bruta SSH con Wazuh  
-- Análisis de logs y correlación de eventos  
-- Simulación de incidentes reales  
-
-👉 [Ver proyectos](./siem-detection)
+- 🎓 ASIR + Especialización en Ciberseguridad (Matrícula de Honor)  
+- 🧠 Enfocado en **detección de amenazas y análisis de incidentes**  
+- ⚡ Aprendizaje continuo en entornos reales de ciberseguridad  
+- 🎯 Buscando oportunidad como **SOC Analyst L1 / Junior Cybersecurity Analyst**  
 
 ---
 
-### 🦠 Malware Analysis
-- Análisis dinámico y estático de muestras  
-- Identificación de comportamiento malicioso  
-- Uso de sandbox y herramientas OSINT  
+## 🛠️ Tecnologías y herramientas
 
-👉 [Ver análisis](./malware-analysis)
+### 🔍 SIEM & Threat Detection
+- Wazuh  
+- ELK Stack  
+- Splunk  
 
----
-
-### 🚨 Incident Response
-- Investigación de incidentes simulados  
-- Detección, análisis y respuesta  
-- Aplicación de MITRE ATT&CK  
-
-👉 [Ver casos](./incident-response)
-
----
-
-### 🧪 Writeups (Labs)
-- TryHackMe  
-- Blue Team Labs  
-- Ejercicios prácticos de ciberseguridad  
-
-👉 [Ver writeups](./writeups)
-
----
-
-## 🧠 Metodologías
-
+### 🛡️ Seguridad y análisis
 - MITRE ATT&CK  
 - Cyber Kill Chain  
+- Wireshark  
+- VirusTotal / Any.run  
+
+### 🧪 Análisis y forense
+- Autopsy  
+- Volatility  
+- FTK Imager  
+
+### 💻 Sistemas y redes
+- Linux  
+- Windows Server  
+- Active Directory  
+- TCP/IP  
 
 ---
 
-## 🚀 Objetivo profesional
+## 📂 Portfolio de ciberseguridad
 
-Busco mi primera oportunidad como **SOC Analyst L1 o Junior Cybersecurity Analyst**, donde aplicar mis conocimientos en detección de amenazas y respuesta a incidentes en entornos reales.
+🔗 Aquí puedes ver mis proyectos prácticos:  
+👉 https://github.com/TU-USUARIO/cybersecurity-portfolio
+
+---
+
+## 🚀 Actualmente trabajando en
+
+- 🛡️ Detección de ataques con SIEM (Wazuh)  
+- 🔍 Análisis de logs e incidentes  
+- 🧪 Laboratorios de Blue Team (TryHackMe, LetsDefend)  
 
 ---
 
@@ -74,4 +63,10 @@ Busco mi primera oportunidad como **SOC Analyst L1 o Junior Cybersecurity Analys
 
 ---
 
-⭐ *Este portfolio refleja mi aprendizaje continuo y desarrollo práctico en ciberseguridad.*
+## ⚡ Objetivo
+
+Convertirme en analista SOC y aportar valor en la **detección y respuesta ante amenazas reales**, protegiendo infraestructuras y sistemas.
+
+---
+
+⭐ *Siempre aprendiendo. Siempre mejorando.*
