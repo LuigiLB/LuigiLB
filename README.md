@@ -44,7 +44,7 @@
 ## 📂 Portfolio de ciberseguridad
 
 🔗 Aquí puedes ver mis proyectos prácticos:  
-👉 https://github.com/TU-USUARIO/cybersecurity-portfolio
+👉 [cybersecurity-portfolio](https://github.com/LuigiLB/Cybersecurity)
 
 ---
 
